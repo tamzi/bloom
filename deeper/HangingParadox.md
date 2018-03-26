@@ -9,4 +9,4 @@ He follows this reasoning,
 all the way back and realizes that he cannot be hanged any day that week at noon without him knowing it in advance. 
 The hangman comes for him on Wednesday, and he is surprised.
 
-Create an algorithm to predict when the prisoner will be hang and list the highly likely day they will be hang.
+    Create an algorithm to predict when the prisoner will be hang and list the highly likely day they will be hang.
